@@ -1,0 +1,45 @@
+.container{
+    display: flex;
+    background-color: bisque;
+    height: 650px;
+    
+}
+.container:hover{
+    background-color: burlywood;
+}
+.skill-info
+{
+    font-family: 'Roboto Slab', serif;
+    margin-left: 50px;
+    line-height: 40px;
+    margin-top: 60px;
+    margin-left: 400px;
+}
+.skill-info h1
+{
+    font-size: 50px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color:black;
+    font-weight: bold;
+}
+.skill-info ul li
+{
+    font-size: 20px;
+    color: black;
+    font-weight: bold;
+    line-height: 50px;
+}
+.skill-info ul li:hover
+{
+    color: rgb(116, 116, 128);
+    cursor: pointer;
+}
+.my-img
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 200px;
+}

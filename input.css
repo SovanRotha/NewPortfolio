@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Bitcount+Prop+Single+Ink:wght@100..900&family=Kantumruy+Pro:ital,wght@0,100..700;1,100..700&family=Metal&family=Roboto+Flex:opsz,wght@8..144,100..1000&family=Roboto+Slab:wght@100..900&display=swap');
+
+@theme {
+    font--slab: 'Roboto Slab', serif;
+}

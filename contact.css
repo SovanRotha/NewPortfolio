@@ -1,0 +1,49 @@
+.contact
+{
+     display: flex;
+    padding : 30px;
+    justify-content: space-around;
+    
+    background-color: rgb(250, 17, 17);
+    height:550px;
+}
+
+.contact-info
+{
+    padding: 40px;
+    font-family: 'Roboto Slab', serif;
+    line-height: 40px;
+    margin: 30px;
+   
+}
+.contact-info h1{
+    font-size: 50px;
+    font-weight: 800;
+    color: white;
+     margin-bottom: 40px;;
+}
+.contact-info a:hover{
+    color: rgb(54, 54, 55);
+    cursor: pointer;
+}
+.contact-info a{
+    margin: 40px;
+    color: white;
+    
+}
+
+.icon svg{
+    margin-right: 10px;
+    color: white;
+    width: 50px;
+    height: 50px;
+   
+   
+}
+.icon a{
+    font-size: 20px;
+    vertical-align: middle;
+    position: relative;
+    left: 60px;
+    top: -45px;
+}
